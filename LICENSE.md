@@ -1,6 +1,6 @@
 # MIT License
 
-Copyright (c) 2020 Guillem Burgués Miró
+## Copyright (c) 2020 Guillem Burgués Miró
 
 Permission is hereby granted, free of charge, 
 to any person obtaining a copy of this software and associated documentation files (the "Software"), 
